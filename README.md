@@ -6,7 +6,7 @@
 #一定要先做这步
 git lfs install
 ```
-然后git clone就行了
+然后git clone就行了,放到该目录下面即可
 
 ### `test_point.py`
 - **功能描述**：该脚本用于在图像上打点，以便调试打点的准确性。打点后的图像将被保存到`output/spoi_image.jpg`，同时带坐标的图像可在`output/img_1.jpg`中查看。
